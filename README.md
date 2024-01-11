@@ -1,7 +1,7 @@
 ## **Hello**
 ### My name is Hrishikesh
 - 👀 I’m interested in Software development, Web development, Cybersecurity, Graphic designing.
-- 🌱 I’m currently learning Django, Android devlopment.
+- 🌱 I’m currently learning Django, Android development.
 
 
 

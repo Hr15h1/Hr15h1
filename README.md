@@ -1,6 +1,6 @@
 ## **Hello**
 ### My name is Hrishikesh
-- 👀 I’m interested in Software development, Web development, Cybersecurity, Graphic designing.
+- 👀 I’m interested in Artificial Intelligence, Machine Learning, Software development, Web development, Cybersecurity and Graphic designing.
 - 🌱 I’m currently studying AI and ML.
 
 
